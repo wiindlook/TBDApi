@@ -15,5 +15,7 @@ namespace TBDApi.DTO
         public string City { get; set; }
         public int Age { get; set; }
 
+
+
     }
 }
